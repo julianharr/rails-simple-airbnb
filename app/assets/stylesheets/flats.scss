@@ -1,0 +1,16 @@
+// Place all the styles related to the Flats controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+$platinum: #EEF0F2;
+
+.container-nav {
+
+}
+
+.container-form {
+  background-color: $platinum;
+  margin: 150px auto;
+  padding: 38px;
+  width: 35%;
+  border-radius: 12px;
+}
